@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Decentralizing Capitlism</title>
+    <link>https://www.decentralizingcapitalism.com/</link>
+    <description>An ambitious community-driven show inspired by the reshaping our capital markets, monetary system, and labor organization. Driven by the ethos of decentralizing knowledge, founder John Wooten aims to make investments as accessible and open to everyone as information and money are through TCP/IP and blockchain. You can join our mission of empowering the next generation by adding your own episode through a PR on this show's GitHub page. Tune in to learn how you can be part of this revolutionary movement towards a decentralized economy.</description>
+    <language>en-us</language>
+    <itunes:author>Community Contributors</itunes:author>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="https://decentralizingcapitalism.com/icon.png"/>
+    <itunes:category text="Technology"/>
+
+    <item>
+      <title>1. Why Decentralize Capitalism? | John Wooten</title>
+      <description>In this episode, we discuss the inspiration of this show.</description>
+      <link>https://decentralizingcapitalism.com/audio/0.mp3</link>
+      <enclosure url="https://decentralizingcapitalism.com/audio/0.mp3" type="audio/mpeg"/>
+      <guid>https://decentralizingcapitalism.com/audio/0.mp3</guid>
+      <pubDate>Fri, 12 Jul 2024 20:00:00 GMT</pubDate>
+      <itunes:duration>00:20:00</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+  </channel>
+</rss>
