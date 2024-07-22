@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Decentralizing Capitlism</title>
+    <title>Decentralizing Capitalism</title>
     <link>https://www.decentralizingcapitalism.com/</link>
     <description>An ambitious community-driven show inspired by the reshaping our capital markets, monetary system, and labor organization. Driven by the ethos of decentralizing knowledge, founder John Wooten aims to make investments as accessible and open to everyone as information and money are through TCP/IP and blockchain. You can join our mission of empowering the next generation by adding your own episode through a PR on this show's GitHub page. Tune in to learn how you can be part of this revolutionary movement towards a decentralized economy.</description>
     <language>en-us</language>
@@ -20,5 +19,6 @@
       <itunes:duration>01:41:15</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
+    
   </channel>
 </rss>
