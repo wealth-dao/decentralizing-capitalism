@@ -6,19 +6,19 @@
     <language>en-us</language>
     <itunes:author>Community Contributors</itunes:author>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="https://decentralizingcapitalism.com/imgs/design/icon.png"/>
+    <itunes:image xlink:href="https://decentralizingcapitalism.com/imgs/design/icon.png"/>
     <itunes:category text="Technology"/>
 
     <item>
       <title>Genesis: Why Decentralize Capitalism? | John Wooten</title>
       <description>In this episode, we discuss the inspiration of this show.</description>
-      <link>https://decentralizingcapitalism.com/audio/0.mp3</link>
+      <link>https://decentralizingcapitalism.com/articles/0.html</link>
       <enclosure url="https://decentralizingcapitalism.com/audio/0.m4a" type="audio/x-m4a"/>
       <guid isPermaLink="false">https://decentralizingcapitalism.com/audio/0.m4a</guid>
       <pubDate>Fri, 12 Jul 2024 20:00:00 GMT</pubDate>
       <itunes:duration>01:41:15</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
-    
+
   </channel>
 </rss>
