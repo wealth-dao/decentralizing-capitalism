@@ -30,13 +30,21 @@ Much of the ethos behind the show is based on the use of lumens as the currency.
 
 Through open-source licenses, we have the chance to give everyone a fair start in life by using work-product that costs next to nothing to share. By joining forces in our software, thinking, and governing decisions, we can build the best social systems together. 🫱🏻‍🫲🏿 Moreover, we can give the next generation a paper trail to build on thanks to public documentation.
 
-## 
+## Movement Organization
 
-### 
+Much of these efforts exist in the various free education tools established by this GitHub organization. But the vast majority exists today in your own hands. Indeed, you are the key to change, and this repo/site is designed to give you the most freedom in furhtering our shared objectives.
 
-### 
+### Referenacable Articles
 
-### 
+Each episode has its own paired article for later reference. The pages will have a player utility to listen directly, any original desciprtions/title/links, and potential community additions for clarity. These can grow over time to give a punch to any groundbreaking audio you contribute.
+
+### Quoteable Transcripts
+
+This is a pending addition. Once we find a simple open-source audio transcriber, a page for each episode will display the transcript. Since it's right in the project, anyone can spellchceck potential mistakes.
+
+### Audio / RSS
+
+`podcast.xml` contains the actual feed fed to any frontend podcast providers. This is where your can place your ideas, voice, and perspectives for all to hear. It also has miscellaneous details for interoperability.
 
 ## Contributing
 
@@ -47,6 +55,8 @@ For the full technical/GitHub instructions, see [`CONTRIBUTING`](/CONTRIBUTING.m
 Summaries, key points, and context
 
 ### Amending Episode Transcriptions
+
+See the folder tbd 📖
 
 ### Sharing Your Perspective(s)
 
