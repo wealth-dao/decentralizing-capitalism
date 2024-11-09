@@ -22,9 +22,13 @@ SPearheaded by John Wooten, this show is an ongoing effort to distribute resourc
 
 This is an adventure towards a future we define where we all haver access to the tools presently gaterkeep for a select few elite. By offering the best abundant communities provide, we can generate a specialized galaxy that knows no bounds. We can shift the balance in a system so clearly controlled by monopolists, plutocrats, and beurocracies. Quite relevantly, it is based on the principles of [SCP](https://www.youtube.com/watch?v=aU08km2xrz0&list=PLWUFvhKuc_5u1sQsz-FAmRgFf9HEhyqj-).
 
-### 
+### Monitary Unity
 
-### 
+Much of the ethos behind the show is based on the use of lumens as the currency. Given the network's efficient decentralization, we can adequately pull the rug out from under established financial intermediaries. That ought best remove the power so concentrated in today's cantillionaire, monopolist, and plutocratic classes.
+
+### Collective Invention
+
+Through open-source licenses, we have the chance to give everyone a fair start in life by using work-product that costs next to nothing to share. By joining forces in our software, thinking, and governing decisions, we can build the best social systems together. 🫱🏻‍🫲🏿 Moreover, we can give the next generation a paper trail to build on thanks to public documentation.
 
 ## 
 
