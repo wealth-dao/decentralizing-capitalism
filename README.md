@@ -20,7 +20,7 @@ In tommorow's economy, you custody, hold, and spend at will thanks to the promis
 
 SPearheaded by John Wooten, this show is an ongoing effort to distribute resources back to humans, not faceless corporations, comittees, or legislatures. Working together, we can create a free, just, and vast array of goods and services. Thus, we can level the playing field for anyone ambitious enogh to put in the work.
 
-This is an adventure towards a future we define where we all haver access to the tools presently gaterkeep for a select few elite. By offering the best abundant communities provide, we can generate a specialized galaxy that knows no bounds. We can shift the balance in a system so clearly controlled by monopolists, plutocrats, and beurocracies.
+This is an adventure towards a future we define where we all haver access to the tools presently gaterkeep for a select few elite. By offering the best abundant communities provide, we can generate a specialized galaxy that knows no bounds. We can shift the balance in a system so clearly controlled by monopolists, plutocrats, and beurocracies. Quite relevantly, it is based on the principles of [SCP](https://www.youtube.com/watch?v=aU08km2xrz0&list=PLWUFvhKuc_5u1sQsz-FAmRgFf9HEhyqj-).
 
 ### 
 
