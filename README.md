@@ -46,4 +46,4 @@ Summaries, key points, and context
 
 ### Sharing Your Perspective(s)
 
-The most direct way you can help our effort is to record your own episode. All it takes is a microphone and a little thought to get started, and we're happy to help you in the [Discord show forum]().
+The most direct way you can help our effort is to record your own episode. All it takes is a microphone and a little thought to get started, and we're happy to help you in the [Discord show forum](https://discord.gg/4gca9VU4vs).
