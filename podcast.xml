@@ -21,5 +21,18 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- INSERT YOUR NEW EPISODE HERE
+    <item>
+      <title>YOUR EPISODE NAME HERE | DISPLAY NAME</title>
+      <description>YOUR RSS DESCRIPTION HERE</description>
+      <link>https://decentralizingcapitalism.com/articles/{n}.html</link>
+      <enclosure url="https://decentralizingcapitalism.com/audio/{n}.m4a" type="audio/x-m4a"/>
+      <guid isPermaLink="false">https://decentralizingcapitalism.com/audio/{n}.m4a</guid>
+      <pubDate>DAY, NUM MON 2024 20:00:00 GMT</pubDate>
+      <itunes:duration>HOUR:MIN:SEC</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    -->
+
   </channel>
 </rss>
