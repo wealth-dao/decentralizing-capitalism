@@ -1,38 +1,60 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Decentralizing Capitalism</title>
-    <link>https://www.decentralizingcapitalism.com/</link>
-    <description>An ambitious community-driven show inspired by the reshaping our capital markets, monetary system, and labor organization. Driven by the ethos of decentralizing knowledge, founder John Wooten aims to make investments as accessible and open to everyone as information and money are through TCP/IP and blockchain. You can join our mission of empowering the next generation by adding your own episode through a PR on this show's GitHub page. Tune in to learn how you can be part of this revolutionary movement towards a decentralized economy.</description>
-    <itunes:image href="https://decentralizingcapitalism.com/imgs/design/icon.png"/>
-    <itunes:author>Community Contributors</itunes:author>
-    <itunes:email>hi@wootenwealth.com</itunes:email>
+<channel>
+  <title>Decentralizing Capitalism</title>
+  <link>https://www.decentralizingcapitalism.com/</link>
+  <description>An ambitious community-driven show inspired by the reshaping our capital markets, monetary system, and labor organization. Driven by the ethos of decentralizing knowledge, founder John Wooten aims to make investments as accessible and open to everyone as information and money are through TCP/IP and blockchain. You can join our mission of empowering the next generation by adding your own episode through a PR on this show's GitHub page. Tune in to learn how you can be part of this revolutionary movement towards a decentralized economy.</description>
+  <itunes:image href="https://decentralizingcapitalism.com/imgs/design/icon.png"/>
+  <itunes:author>Community Contributors</itunes:author>
+  <itunes:email>hi@wootenwealth.com</itunes:email>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Technology"/>
+  <language>en-us</language>
+
+  <item>
+    <title>Genesis: Why Decentralize Capitalism? | John Wooten</title>
+    <description>In this episode, we discuss the inspiration of this show.</description>
+    <link>https://decentralizingcapitalism.com/articles/0.html</link>
+    <enclosure url="https://decentralizingcapitalism.com/audio/0.m4a" type="audio/x-m4a"/>
+    <guid isPermaLink="false">https://decentralizingcapitalism.com/audio/0.m4a</guid>
+    <pubDate>Fri, 12 Jul 2024 20:00:00 GMT</pubDate>
+    <itunes:duration>01:41:15</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Technology"/>
-    <language>en-us</language>
+  </item>
+  
+  <item>
+    <title>John Wooten: Global Moves to Curtail U.S. Investor Protections | Ankit Sehgal</title>
+    <description>In this episode, we explore how Singapore, Switzerland, and China are leveraging tokenized treasuries and blockchain innovations to sidestep traditional U.S. investor protection laws. Using UBS's upcoming tokenized treasuries as a case study, we analyze the global shift in financial strategies and what it means for American investors.</description>
+    <link>https://decentralizingcapitalism.com/articles/1</link>
+    <enclosure url="https://decentralizingcapitalism.com/audio/1.mp3" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://decentralizingcapitalism.com/audio/1.mp3</guid>
+    <pubDate>Thu, 7 Nov 2024 02:00:00 GMT</pubDate>
+    <itunes:duration>1:27:11</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  
+  <item>
+    <title>John Wooten et al: First Missionary Decentralized Gov. & Banks | Ankit Sehgal</title>
+    <description>In this episode, we examine the emergence of new banking structures and the foundational role governance plays in their success. We highlight the launch of the first American DUNA (nonprofit DAO) organization, a pioneering effort to redefine financial networks through transparent, decentralized systems. From the challenges of aligning stakeholders to the critical importance of system governance, we explore how these innovative structures are reshaping the financial landscape and creating new opportunities for inclusivity and accountability.</description>
+    <link>https://decentralizingcapitalism.com/articles/1</link>
+    <enclosure url="https://decentralizingcapitalism.com/audio/1.mp3" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://decentralizingcapitalism.com/audio/1.mp3</guid>
+    <pubDate>Thu, 21 Nov 2024 02:00:00 GMT</pubDate>
+    <itunes:duration>1:34:49</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  
+  <!-- INSERT YOUR NEW EPISODE HERE
+  <item>
+    <title>YOUR EPISODE NAME HERE | DISPLAY NAME</title>
+    <description>YOUR RSS DESCRIPTION HERE</description>
+    <link>https://decentralizingcapitalism.com/articles/{n}.html</link>
+    <enclosure url="https://decentralizingcapitalism.com/audio/{n}.m4a" type="audio/x-m4a"/>
+    <guid isPermaLink="false">https://decentralizingcapitalism.com/audio/{n}.m4a</guid>
+    <pubDate>DAY, NUM MON 2024 20:00:00 GMT</pubDate>
+    <itunes:duration>HOUR:MIN:SEC</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  -->
 
-    <item>
-      <title>Genesis: Why Decentralize Capitalism? | John Wooten</title>
-      <description>In this episode, we discuss the inspiration of this show.</description>
-      <link>https://decentralizingcapitalism.com/articles/0.html</link>
-      <enclosure url="https://decentralizingcapitalism.com/audio/0.m4a" type="audio/x-m4a"/>
-      <guid isPermaLink="false">https://decentralizingcapitalism.com/audio/0.m4a</guid>
-      <pubDate>Fri, 12 Jul 2024 20:00:00 GMT</pubDate>
-      <itunes:duration>01:41:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <!-- INSERT YOUR NEW EPISODE HERE
-    <item>
-      <title>YOUR EPISODE NAME HERE | DISPLAY NAME</title>
-      <description>YOUR RSS DESCRIPTION HERE</description>
-      <link>https://decentralizingcapitalism.com/articles/{n}.html</link>
-      <enclosure url="https://decentralizingcapitalism.com/audio/{n}.m4a" type="audio/x-m4a"/>
-      <guid isPermaLink="false">https://decentralizingcapitalism.com/audio/{n}.m4a</guid>
-      <pubDate>DAY, NUM MON 2024 20:00:00 GMT</pubDate>
-      <itunes:duration>HOUR:MIN:SEC</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    -->
-
-  </channel>
+</channel>
 </rss>
