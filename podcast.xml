@@ -22,7 +22,18 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   -->
-
+  
+  <item>
+    <title>John Wooten at al: | Ankit Sehgal</title>
+    <description>Today we dive into the recent public offering of an AI company through a coin listed on Coinbase within hours of trading. John contemplates the implications of insider trading activity on decentralized exchanges, which was centrally investigated and punished by an underlying core team. We extrapolate this turn of events to ask ourselves, "What is decentralization," with plenty of stories to go along from community contributors!</description>
+    <link>https://decentralizingcapitalism.com/articles/5</link>
+    <enclosure url="https://bafybeihy32wxqmf5rt6kzm3ue4u72btt6vcyyabcpnkd2sf23nljs2qohu.ipfs.dweb.link" type="audio/x-m4a"/>
+    <guid isPermaLink="false">https://bafybeihy32wxqmf5rt6kzm3ue4u72btt6vcyyabcpnkd2sf23nljs2qohu.ipfs.dweb.link</guid>
+    <pubDate>Thu, 30 Jan 2025 20:00:00 GMT</pubDate>
+    <itunes:duration>HOUR:MIN:SEC</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  
   <item>
     <title>John Wooten: Regulation Showdown Between FINRA, the SEC, and Congress | Ankit Sehgal</title>
     <description>In exploring the past of securities regulations and their general social frameworks, we discuss often-overlooked key goals of public policy as developed over the course of centuries. Looking forward, we finish with a chat on the regulation of TAD3 using a first-of-its-kind DUNA community reconciliation model. Uncover the principles behind today's best practices that just might leave you scratching your head.</description>
