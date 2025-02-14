@@ -15,13 +15,24 @@
     <title>YOUR EPISODE NAME HERE | DISPLAY NAME</title>
     <description>YOUR RSS DESCRIPTION HERE</description>
     <link>https://decentralizingcapitalism.com/articles/{n}.html</link>
-    <enclosure url="https://decentralizingcapitalism.com/audio/{n}.m4a" type="audio/x-m4a"/>
-    <guid isPermaLink="false">https://decentralizingcapitalism.com/audio/{n}.m4a</guid>
+    <enclosure url="https://<CID>.ipfs.dweb.link" type="audio/x-m4a"/>
+    <guid isPermaLink="false">https://<CID>.ipfs.dweb.link</guid>
     <pubDate>DAY, NUM MON 2025 20:00:00 GMT</pubDate>
     <itunes:duration>HOUR:MIN:SEC</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
   -->
+  
+  <item>
+    <title>John Wooten et al: Market Structure, TAD3 Design, and Decentralized Transfer Agents | Ankit Sehgal</title>
+    <description>In this episode, we dive into the origins of Block Transfer and John's work with Stellar, how they recently received a vote of confidence from the community while expanding, and upcoming plans with the expanding DRS and active development open-source community across networks.</description>
+    <link>https://decentralizingcapitalism.com/articles/{n}.html</link>
+    <enclosure url="https://bafybeiewcck45k3cj5pzwgpkjcnkzpn55dvtpgakftjkafqxnl6kvt7uwm.ipfs.dweb.link" type="audio/x-m4a"/>
+    <guid isPermaLink="false">https://bafybeiewcck45k3cj5pzwgpkjcnkzpn55dvtpgakftjkafqxnl6kvt7uwm.ipfs.dweb.link</guid>
+    <pubDate>Thu, 13 Feb 2025 20:00:00 GMT</pubDate>
+    <itunes:duration>2:57:47</itunes:duration>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
   
   <item>
     <title>John Wooten at al: New SEC Short-Sale Reporting Rules and Implications | Ankit Sehgal</title>
